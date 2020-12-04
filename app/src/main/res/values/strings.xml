@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="no_data_found">No data found</string>
+    <string name="noInternetConnection">Cannot connect to Internet. Please turn th wifi on</string>
+</resources>
